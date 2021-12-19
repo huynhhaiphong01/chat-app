@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+d491cb5845182d962ba6b4f6b3d4850930b91beb refs/remotes/origin/base-activity
+fd27c1473b6163e655017aca1f33d11dfe408955 refs/remotes/origin/develop
+2db5bafb56f8e8bc7b2da14198120cbdcf74f3c2 refs/remotes/origin/firebase
+34764dd07efc7a6a06e26f4bab7012b599323d44 refs/remotes/origin/main
+7d797de590274264dbe01a8a0fe1000f14b2d6f7 refs/remotes/origin/signin
